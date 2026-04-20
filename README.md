@@ -39,6 +39,7 @@ The design phase followed rigorous engineering standards, documented in the `/di
 
 ## 🛠 Tech Stack
 * **Backend/Logic**: Python
+* **Frontend/Logic**: Java
 * **Prototyping**: Java
 * **Design**: Figma & Canva
 * **Testing**: JUnit (Java Version) & Pytest (Python Version)
@@ -54,7 +55,7 @@ We followed a strict testing protocol to ensure system reliability:
 ---
 
 ## 👥 Contributors
-* **Munthir Alfarsi** – Project Lead & System Architect
+* **Munthir Alfarsi** 
 * Hashim Bajaber
 * Abdulaziz Melebari
 * Rami Alyazedy
