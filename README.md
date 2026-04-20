@@ -18,7 +18,7 @@
 
 ## 🏗 System Architecture
 The project is built using a **Layered Architecture** to ensure a clean separation of concerns:
-![Architecture Diagram](diagrams/Architecture_Diagram.png)
+![Architecture Diagram](diagrams/Architecture Diagram.png)
 1.  **Presentation Layer**: Built with **Python (Web)** for a responsive and user-friendly interface.
 2.  **Application Layer**: Handles the business logic and manages interaction between users and data.
 3.  **Domain Layer**: Contains the core business rules (GPA calculations, attendance policies, etc.).
