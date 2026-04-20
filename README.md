@@ -18,6 +18,7 @@
 
 ## 🏗 System Architecture
 The project is built using a **Layered Architecture** to ensure a clean separation of concerns:
+![Architecture Diagram](diagrams/Architecture_Diagram.png)
 1.  **Presentation Layer**: Built with **Python (Web)** for a responsive and user-friendly interface.
 2.  **Application Layer**: Handles the business logic and manages interaction between users and data.
 3.  **Domain Layer**: Contains the core business rules (GPA calculations, attendance policies, etc.).
@@ -28,8 +29,10 @@ The project is built using a **Layered Architecture** to ensure a clean separati
 ## 📊 System Modeling & Diagrams
 The design phase followed rigorous engineering standards, documented in the `/diagrams` folder:
 * **Use Case Diagram**: Defines all user interactions and system boundaries.
+* ![Use Case Diagram](diagrams/Use_Case_Diagram.png.jpeg)
 * **Sequence Diagrams**: Detailed flow for core processes like grading and section creation.
 * **Class Diagram**: A blueprint of the system's structural components.
+* ![Class Diagram](diagrams/Class_Diagram.png)
 * **Architecture Diagram**: Visualization of the layered structural approach.
 
 ---
